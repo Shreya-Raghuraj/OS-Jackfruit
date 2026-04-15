@@ -180,7 +180,7 @@ dmesg | tail
 ```
 screenshots
 <img width="1131" height="390" alt="Screenshot 2026-04-15 at 4 50 08 PM" src="https://github.com/user-attachments/assets/2bd0c160-7971-42f4-bcf6-6d329165c4e4" />
-<img width="1155" height="388" alt="Screenshot 2026-04-15 at 4 51 44 PM" src="https://github.com/user-attachments/assets/7e56b11a-28b1-4523-b350-9024010a1d1b" />
+
 
 ---
 
