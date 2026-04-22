@@ -400,8 +400,7 @@ int child_fn(void *arg)
         nice(cfg->nice_value);
 
     /* Execute the requested command */
-    char *args[] = { cfg->command, NULL };
-    execvp(cfg->command, args);
+    execl("/bin/sh", "sh", "-c", cfg->command, NULL);
 
     /* If we get here, exec failed */
     perror("execvp");
